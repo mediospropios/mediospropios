@@ -277,7 +277,7 @@ h6 {
 .main-nav a {
   display: block;
   position: relative;
-  color: #413e66;
+  color: #025939;
   padding: 10px 15px;
   transition: 0.3s;
   font-size: 14px;
@@ -370,7 +370,7 @@ h6 {
   left: -260px;
   width: 260px;
   padding-top: 18px;
-  background: rgba(40, 38, 70, 0.8);
+  background: rgba(21, 89, 70, 35);
   transition: 0.4s;
 }
 
@@ -447,7 +447,7 @@ h6 {
   top: 0;
   left: 0;
   position: fixed;
-  background: rgba(40, 38, 70, 0.8);
+  background: rgba(20, 166, 120, 0.8);
   overflow: hidden;
   display: none;
 }
@@ -696,6 +696,7 @@ h6 {
   background-size: cover;
   padding: 40px 0;
 }
+
 
 #call-to-action .cta-title {
   color: #fff;
